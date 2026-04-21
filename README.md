@@ -15,6 +15,7 @@ Focusing on AIGC Forensics and Robustness;
 💬 ping me about model security, aigc detection, information hiding, deep learning, academic writing！
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzx111621)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzx111621)](https://github.com/hzx111621/YOLOP-car)
 ## Star History
 
 <a href="https://www.star-history.com/?repos=hzx111621%2FYOLOP-car&type=date&legend=top-left">
@@ -25,8 +26,4 @@ Focusing on AIGC Forensics and Robustness;
  </picture>
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hzx111621/hzx111621/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hzx111621/hzx111621/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hzx111621/hzx111621/output/github-contribution-grid-snake.svg">
-</picture>
+
