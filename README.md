@@ -1,1 +1,15 @@
-# hello
+Hello there 👋
+AIGC Researcher by day ☼ and Model Security Guardian by night ☾
+Graduate Researcher at East China University of Science and Technology (ECUST);
+
+
+Focusing on AIGC Forensics and Robustness;
+
+
+⚙️ I use daily: .py (PyTorch), .tex, .sh, .cpp, .yaml
+
+🌍 I'm mostly active within the Computer Vision & AI Security Community
+
+🛡️ Researching: Only-Train-Once, SFDEM-, F-VAE-P-VAE
+
+💬 ping me about model security, aigc detection, information hiding, deep learning, academic writing
