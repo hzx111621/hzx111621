@@ -11,8 +11,6 @@ Focusing on AIGC Forensics and Robustness;
 
 🌍 I'm mostly active within the Computer Vision & AI Security Community
 
-🛡️ Researching: Only-Train-Once, SFDEM-, F-VAE-P-VAE
-
 💬 ping me about model security, aigc detection, information hiding！
 
 🎉 My paper titled “Only Train Once: Uncertainty-Aware One-Class Learning for Face Authenticity Detection” has been accepted for publication in IEEE Transactions on Multimedia (TMM).
