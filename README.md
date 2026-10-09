@@ -13,7 +13,9 @@ Focusing on AIGC Forensics and Robustness;
 
 🛡️ Researching: Only-Train-Once, SFDEM-, F-VAE-P-VAE
 
-💬 ping me about model security, aigc detection, information hiding, deep learning, academic writing！
+💬 ping me about model security, aigc detection, information hiding！
+
+🎉 My paper titled “Only Train Once: Uncertainty-Aware One-Class Learning for Face Authenticity Detection” has been accepted for publication in IEEE Transactions on Multimedia (TMM).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzx111621)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzx111621)](https://github.com/hzx111621/YOLOP-car)
