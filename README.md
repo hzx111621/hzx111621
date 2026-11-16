@@ -1,11 +1,8 @@
 Hello there 👋
-AIGC Researcher by day ☼ and Model Security Guardian by night ☾
 
 Graduate Researcher at East China University of Science and Technology (ECUST);
 
-
-Focusing on AIGC Forensics and Robustness;
-
+Focusing on AIGC Forensics and Information Hiding;
 
 ⚙️ I use daily: .py (PyTorch), .tex, .sh, .cpp, .yaml
 
